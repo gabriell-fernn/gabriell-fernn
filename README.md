@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my profile!
 
-<!--
-**gabriell-fernn/gabriell-fernn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a begginer developer focus on Back-End languages (Python & Java for now). =D
 
-Here are some ideas to get you started:
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabriell-fernn&show_icons=true&theme=dracula&count_private=true">
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <ul>
+      <li>Back-End with Java & Python</li>
+  </ul>
+
+<div>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
+  </div>
