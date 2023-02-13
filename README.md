@@ -4,7 +4,7 @@ I am a begginer developer focus on Back-End languages (Python & Java for now). =
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabriell-fernn&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gabriell-fernn&layout=compact&theme=dracula">
+    
 </div>
 
   <ul>
