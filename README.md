@@ -8,8 +8,8 @@ I am a begginer Developer focusing on Front-End languages (HTML, CSS, BOOTSTRAP)
 </div>
 
   <ul>
-      <li>Back-End with Python</li>
       <li>Front-End with HTML, CSS and Bootstrap</li>
+      <li>Back-End with Python</li>
   </ul>
 
 <div>
