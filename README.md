@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am a begginer Developer focusing on Front-End languages (HTML, CSS, BOOTSTRAP) and Back-End (Python). =D
+I am a begginer Developer focusing on Front-End languages and a little bit of Back-End. =D
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabriell-fernn&show_icons=true&theme=dracula&count_private=true">
