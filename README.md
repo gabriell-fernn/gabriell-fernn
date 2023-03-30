@@ -1,5 +1,9 @@
 ### Welcome to my profile!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 I am a begginer Developer focusing on Front-End languages and a little bit of Back-End. =D
 
 <div>
