@@ -7,8 +7,8 @@
 I am a begginer Developer focusing on Front-End languages and a little bit of Back-End. =D
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabriell-fernn&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gabriell-fernn&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabriell-fernn&show_icons=true&theme=calm&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gabriell-fernn&layout=compact&theme=calm">
     
 </div>
 
