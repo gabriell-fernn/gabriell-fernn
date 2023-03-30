@@ -9,7 +9,7 @@ I am a begginer Developer focusing on Front-End languages and a little bit of Ba
 </div>
 
   <ul>
-      <li>Front-End with HTML, CSS and Bootstrap</li>
+      <li>Front-End with HTML, CSS, JavaScript and Bootstrap</li>
       <li>Back-End with Python</li>
   </ul>
 
