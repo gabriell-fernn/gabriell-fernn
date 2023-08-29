@@ -14,7 +14,7 @@ I am a begginer Developer focusing on Front-End languages and a little bit of Ba
 
   <ul>
       <li>Front-End with HTML, CSS, JavaScript</li>
-      <li>Back-End with Python, PHP</li>
+      <li>Back-End PHP</li>
   </ul>
 
 <div>
@@ -22,6 +22,5 @@ I am a begginer Developer focusing on Front-End languages and a little bit of Ba
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
     
   </div>
