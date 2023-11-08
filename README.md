@@ -13,15 +13,16 @@ I am a begginer Developer focusing on Front-End languages and a little bit of Ba
 </div>
 
   <ul>
-      <li>Front-End with HTML, CSS, JavaScript, React</li>
+      <li>Front-End with HTML, CSS, Bootstrap, JavaScript, React</li>
       <li>Back-End PHP</li>
   </ul>
 
 <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/html-1.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/react-2.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/react-1.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
     
   </div>
