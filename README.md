@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-I am a begginer Developer focusing on Front-End languages and a little bit of Back-End. =D
+I am a begginer Developer focusing on Front-End languages. =D
 
 ### Conecte-se comigo
 
@@ -22,8 +22,7 @@ I am a begginer Developer focusing on Front-End languages and a little bit of Ba
 ### Habilidades
 
   <ul>
-      <li>Front-End with HTML, CSS, Bootstrap, JavaScript, React</li>
-      <li>Back-End PHP</li>
+      <li>Front-End with HTML, CSS, Bootstrap, JavaScript, TypeScript, React</li>
   </ul>
 
 <div>
@@ -32,6 +31,8 @@ I am a begginer Developer focusing on Front-End languages and a little bit of Ba
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/react-1.svg'>
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/php-1.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/typescript.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/vitejs.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/git-icon.svg'>
     
   </div>
