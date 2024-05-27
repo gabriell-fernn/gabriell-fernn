@@ -1,10 +1,6 @@
 ### Welcome to my profile!
 
-<div>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-I am a begginer Developer focusing on Front-End languages. =D
+Enthusiast of the best web development technologies. =D
 
 ### Conecte-se comigo
 
