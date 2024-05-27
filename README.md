@@ -1,7 +1,7 @@
 # Gabriell Fernandes
 Enthusiast of the best web development technologies. =D
 
-### Conecte-se comigo
+### Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabriellfertnandess1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriellfernandess/)
@@ -14,7 +14,7 @@ Enthusiast of the best web development technologies. =D
     
 </div>
 
-### Habilidades
+### Skills
 
   <ul>
       <li>Front-End with HTML, CSS, Bootstrap, JavaScript, TypeScript, React</li>
