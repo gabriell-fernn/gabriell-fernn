@@ -50,14 +50,13 @@
     <!-- Back-end -->
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".NET Core">
-    <img height="50em" src="https://upload.vectorlogo.zone/logos/aspnetcore/images/2b5a6b94-8f62-4d42-9f3e-1b8f3b8fa3d7.svg" title="ASP.NET Core">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" title="Node.js">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/fastify.svg" title="Fastify">
 </div>
 
 <div>
     <!-- Banco de dados -->
-    <img height="50em" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL">
+    <img height="50em" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" title="MySQL">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
 </div>
 
