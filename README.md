@@ -44,18 +44,24 @@
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" title="React">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" title="Vite">
+</div>
 
+<div>
     <!-- Back-end -->
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".NET Core">
     <img height="50em" src="https://upload.vectorlogo.zone/logos/aspnetcore/images/2b5a6b94-8f62-4d42-9f3e-1b8f3b8fa3d7.svg" title="ASP.NET Core">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" title="Node.js">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/fastify.svg" title="Fastify">
+</div>
 
+<div>
     <!-- Banco de dados -->
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL">
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" title="PostgreSQL">
+</div>
 
+<div>
     <!-- Outros -->
     <img height="50em" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git">
 </div>
